@@ -206,6 +206,9 @@ header {
   margin-left: 50%;
   margin-top: 50px;
 }
+.portfolio__icon_second {
+  display: none;
+}
 /* portfolio styles end */
 /* info-block styles start */
 .info-block {
